@@ -88,10 +88,10 @@ Several design patterns have been implemented:
 - **CommandLineUi**: User interface for the command line.
 
 ## Logging
-Logging is configured using Log4j2. The configuration file `log4j2.xml` is located in the `src/main/resources` directory. The `CommandLineUi` class includes log statements that log commands to `prikazy.log`.
+Logging is configured using Log4j2. The configuration file `log4j2.xml` is located in the `src/main/resources` directory. The `CommandLineUi` class includes log statements that log commands to `command.log`.
 
 ## Testing
-Unit tests for the command classes are located in the `src/test/zork/command` directory. Each command class has a corresponding test class.
+Unit tests for the command classes are located in the `src/main/test/zork/command` directory. Each command class has a corresponding test class.
 
 ## How to Play
 1. **Start the Game**: Run the `Main` class to start the game.
