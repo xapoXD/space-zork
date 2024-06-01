@@ -1,0 +1,674 @@
+2024-01-30 16:49:28.475 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-30 16:49:28.477 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-30 16:49:28.478 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-30 16:49:28.478 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-30 16:49:28.478 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-30 16:49:28.478 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-30 16:49:31.881 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-30 16:49:34.542 [main] INFO  zork.ui.CommandLineUi - equip Blaster
+2024-01-30 16:49:37.597 [main] INFO  zork.ui.CommandLineUi - go Corridor
+2024-01-30 16:49:40.104 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-30 16:49:42.997 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 16:49:45.265 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 16:49:47.401 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 16:49:50.993 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 16:49:53.873 [main] INFO  zork.ui.CommandLineUi - go Lobby
+2024-01-30 16:49:55.884 [main] INFO  zork.ui.CommandLineUi - End: GAME ENDED BY USER
+2024-01-30 17:14:05.592 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-30 17:14:05.594 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-30 17:14:05.594 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-30 17:14:05.595 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-30 17:14:05.596 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-30 17:14:05.596 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-30 17:14:05.596 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-30 17:14:05.606 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-30 17:14:05.606 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-30 17:14:05.606 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-30 17:14:05.607 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-30 17:14:05.607 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-30 17:14:05.607 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-30 17:14:05.608 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 17:14:05.609 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-30 17:16:05.890 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-30 17:16:05.893 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-30 17:16:05.893 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-30 17:16:05.893 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-30 17:16:05.893 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-30 17:16:05.893 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-30 17:16:12.172 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-30 17:16:15.642 [main] INFO  zork.ui.CommandLineUi - go Cinema
+2024-01-30 17:16:17.001 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-30 17:16:31.171 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-30 17:16:38.455 [main] INFO  zork.ui.CommandLineUi - equip Blaster
+2024-01-30 17:16:42.264 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-30 17:16:44.750 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-30 17:16:48.719 [main] INFO  zork.ui.CommandLineUi - lookAround
+2024-01-30 17:16:50.764 [main] INFO  zork.ui.CommandLineUi - End: GAME ENDED BY USER
+2024-01-31 15:17:58.350 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:17:58.352 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:17:58.352 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:17:58.352 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:17:58.353 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:17:58.353 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:18:04.085 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:18:12.256 [main] INFO  zork.ui.CommandLineUi - pickUp HealthPotion
+2024-01-31 15:18:17.711 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:20:26.596 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:20:26.600 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:20:26.601 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:20:26.601 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:20:26.601 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:20:26.601 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:20:33.023 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:20:40.476 [main] INFO  zork.ui.CommandLineUi - pickUp HealthPotion
+2024-01-31 15:20:44.270 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:20:50.885 [main] INFO  zork.ui.CommandLineUi - equip Blaster
+2024-01-31 15:20:55.268 [main] INFO  zork.ui.CommandLineUi - equip HealthPotion
+2024-01-31 15:20:59.072 [main] INFO  zork.ui.CommandLineUi - go Cinema
+2024-01-31 15:21:00.966 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:21:02.271 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:21:03.468 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:21:07.511 [main] INFO  zork.ui.CommandLineUi - pickUp M4
+2024-01-31 15:21:11.383 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:21:16.167 [main] INFO  zork.ui.CommandLineUi - equip M4
+2024-01-31 15:21:19.163 [main] INFO  zork.ui.CommandLineUi - go Bedroom
+2024-01-31 15:21:20.971 [main] INFO  zork.ui.CommandLineUi - attack General
+2024-01-31 15:21:22.173 [main] INFO  zork.ui.CommandLineUi - attack General
+2024-01-31 15:21:30.064 [main] INFO  zork.ui.CommandLineUi - pickUp CongressRoomkey
+2024-01-31 15:21:38.244 [main] INFO  zork.ui.CommandLineUi - pickUp CongressRoomKey
+2024-01-31 15:21:43.512 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:22:23.476 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:22:23.479 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:22:23.479 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:22:23.479 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:22:23.480 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:22:23.480 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:22:36.457 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:22:36.459 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:22:36.459 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:22:36.459 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:22:36.459 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:22:36.460 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:22:41.214 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:22:48.339 [main] INFO  zork.ui.CommandLineUi - pickUp ManaPotion
+2024-01-31 15:22:51.648 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:22:56.740 [main] INFO  zork.ui.CommandLineUi - pickUp StaminaPotion
+2024-01-31 15:23:00.151 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:23:06.934 [main] INFO  zork.ui.CommandLineUi - pickUp HealthPotion
+2024-01-31 15:23:13.533 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:24:10.382 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:24:10.384 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:24:10.384 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:24:10.384 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:24:10.384 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:24:10.384 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:24:15.014 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:24:19.355 [main] INFO  zork.ui.CommandLineUi - pickUp ManaPotion
+2024-01-31 15:24:23.714 [main] INFO  zork.ui.CommandLineUi - pickUp StaminaPotion
+2024-01-31 15:24:31.849 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:31:16.268 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:31:16.271 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:31:16.271 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:31:16.271 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:31:16.271 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:31:16.271 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:31:28.335 [main] INFO  zork.ui.CommandLineUi - pickUp ManaPotion
+2024-01-31 15:31:33.221 [main] INFO  zork.ui.CommandLineUi - pickUp StaminaPotion
+2024-01-31 15:31:35.828 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:31:39.086 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:31:45.705 [main] INFO  zork.ui.CommandLineUi - putDown StaminaPotion
+2024-01-31 15:31:48.462 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:31:52.135 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:31:55.498 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:31:59.126 [main] INFO  zork.ui.CommandLineUi - equip Blaster
+2024-01-31 15:32:02.032 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:32:12.189 [main] INFO  zork.ui.CommandLineUi - pickUp HealthPotion
+2024-01-31 15:32:21.400 [main] INFO  zork.ui.CommandLineUi - go Cinema
+2024-01-31 15:32:23.174 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:32:26.417 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:32:28.083 [main] INFO  zork.ui.CommandLineUi - attack Soldier
+2024-01-31 15:32:31.348 [main] INFO  zork.ui.CommandLineUi - pickUp M4
+2024-01-31 15:32:36.075 [main] INFO  zork.ui.CommandLineUi - putDown Blaster
+2024-01-31 15:32:40.692 [main] INFO  zork.ui.CommandLineUi - pickUp M4
+2024-01-31 15:32:42.743 [main] INFO  zork.ui.CommandLineUi - equip M4
+2024-01-31 15:32:45.670 [main] INFO  zork.ui.CommandLineUi - go Bedroom
+2024-01-31 15:32:47.817 [main] INFO  zork.ui.CommandLineUi - attack General
+2024-01-31 15:32:49.407 [main] INFO  zork.ui.CommandLineUi - attack General
+2024-01-31 15:32:50.865 [main] INFO  zork.ui.CommandLineUi - attack General
+2024-01-31 15:32:54.035 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:32:56.713 [main] INFO  zork.ui.CommandLineUi - lookAround
+2024-01-31 15:33:05.146 [main] INFO  zork.ui.CommandLineUi - pickUp CongressRoomkey
+2024-01-31 15:33:11.185 [main] INFO  zork.ui.CommandLineUi - pickUp CongressRoomKey
+2024-01-31 15:33:19.322 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:33:25.571 [main] INFO  zork.ui.CommandLineUi - putDown ManaPotion
+2024-01-31 15:33:28.182 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:33:33.659 [main] INFO  zork.ui.CommandLineUi - pickUp CongressRoomKey
+2024-01-31 15:33:37.069 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:35:24.472 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.474 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.474 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.474 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.475 [main] INFO  zork.ui.CommandLineUi - pickUp 
+2024-01-31 15:35:24.484 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.484 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.484 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.484 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.484 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.485 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:35:24.487 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.487 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.487 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.487 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.488 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.488 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.490 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:35:24.503 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.503 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.503 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.503 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.504 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.504 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:35:24.506 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.506 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.506 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.507 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.507 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.507 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:35:24.510 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:35:24.510 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:35:24.510 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:35:24.511 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:35:24.511 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:35:24.511 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:36:44.116 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.118 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.119 [main] INFO  zork.ui.CommandLineUi - pickUp 
+2024-01-31 15:36:44.131 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.131 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.131 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.131 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.131 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.132 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:36:44.135 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.135 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.135 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.135 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.135 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.136 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:36:44.138 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.139 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.139 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.139 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.139 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.139 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:36:44.155 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.155 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.155 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.156 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.156 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.156 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.161 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:36:44.164 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:36:44.164 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:36:44.164 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:36:44.164 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:36:44.164 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:36:44.165 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:37:04.716 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.720 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.720 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.720 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.721 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.721 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.721 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.721 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.722 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.722 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.722 [main] INFO  zork.ui.CommandLineUi - pickUp 
+2024-01-31 15:37:04.735 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.735 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.736 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.736 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.736 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.737 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:37:04.740 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.741 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.741 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.741 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.741 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.741 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:37:04.745 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.745 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.746 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.746 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.746 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.746 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:37:04.749 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.750 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.750 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.750 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.750 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.751 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:37:04.753 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.754 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.754 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.754 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.754 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.754 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:37:04.758 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:04.758 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:04.758 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:04.758 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:04.759 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:04.759 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:37:14.051 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:37:14.053 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:37:14.053 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:37:14.053 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:37:14.054 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:37:14.054 [main] INFO  zork.ui.CommandLineUi - application started
+2024-01-31 15:37:17.931 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:37:24.043 [main] INFO  zork.ui.CommandLineUi - pickUp HealthPotion
+2024-01-31 15:37:29.676 [main] INFO  zork.ui.CommandLineUi - pickUp ManaPotion
+2024-01-31 15:37:32.444 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:37:46.711 [main] INFO  zork.ui.CommandLineUi - pickUp StaminaPotion
+2024-01-31 15:37:50.584 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:38:59.459 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:38:59.461 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:38:59.461 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:38:59.461 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:38:59.461 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-31 15:38:59.462 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-31 15:38:59.470 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:38:59.471 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:38:59.471 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:38:59.471 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:38:59.471 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:38:59.472 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:38:59.472 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:38:59.473 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:40:57.070 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:40:57.072 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:40:57.072 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:40:57.072 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:40:57.072 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:40:57.072 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-31 15:40:57.073 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-31 15:40:57.083 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:40:57.083 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:40:57.083 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:40:57.083 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:40:57.084 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:40:57.084 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:40:57.084 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:40:57.086 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:40:57.087 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:40:57.087 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:40:57.087 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:40:57.087 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:40:57.087 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:40:57.088 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:40:57.088 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:41:39.342 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:41:39.344 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:41:39.344 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:41:39.344 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-31 15:41:39.345 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-31 15:41:39.354 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:41:39.354 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:41:39.354 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:41:39.354 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:41:39.354 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:41:39.355 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:41:39.355 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:41:39.358 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:41:39.359 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:42:51.668 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:42:51.671 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:42:51.672 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.672 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.672 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.672 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-31 15:42:51.681 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:42:51.682 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:42:51.682 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:42:51.682 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:42:51.682 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:42:51.682 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.686 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:42:51.686 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:42:51.686 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:42:51.687 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:42:51.687 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:42:51.687 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.687 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:42:51.690 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:42:51.690 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:42:51.690 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:42:51.691 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:42:51.691 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:42:51.691 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:42:51.691 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:42:51.691 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:44:37.831 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:44:37.834 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:44:37.834 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:44:37.834 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:44:37.834 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:44:37.835 [main] INFO  zork.ui.CommandLineUi - equip testWP
+2024-01-31 15:44:37.842 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:44:37.842 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:44:37.843 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:44:37.843 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:44:37.843 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:44:37.843 [main] INFO  zork.ui.CommandLineUi - equip testWP
+2024-01-31 15:44:37.843 [main] INFO  zork.ui.CommandLineUi - equip testWP
+2024-01-31 15:44:37.845 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:44:37.845 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:44:37.845 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:44:37.845 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:44:37.845 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:44:37.846 [main] INFO  zork.ui.CommandLineUi - equip 
+2024-01-31 15:47:33.380 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.382 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.383 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.383 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.383 [main] INFO  zork.ui.CommandLineUi - go 
+2024-01-31 15:47:33.383 [main] INFO  zork.ui.CommandLineUi - go 
+2024-01-31 15:47:33.390 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.391 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.391 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.391 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.391 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.391 [main] INFO  zork.ui.CommandLineUi - go testRoom
+2024-01-31 15:47:33.394 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.394 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.394 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.394 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.394 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.395 [main] INFO  zork.ui.CommandLineUi - go lockedRoom
+2024-01-31 15:47:33.397 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.397 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.397 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.397 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.397 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.398 [main] INFO  zork.ui.CommandLineUi - go lockedRoom
+2024-01-31 15:47:33.399 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:33.400 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:33.400 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:33.400 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:33.400 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:33.400 [main] INFO  zork.ui.CommandLineUi - go nonRoom
+2024-01-31 15:47:57.133 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.136 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.136 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.136 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.137 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.138 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.138 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.138 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.138 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.138 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.139 [main] INFO  zork.ui.CommandLineUi - go 
+2024-01-31 15:47:57.139 [main] INFO  zork.ui.CommandLineUi - go 
+2024-01-31 15:47:57.155 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.155 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.155 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.155 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.155 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.156 [main] INFO  zork.ui.CommandLineUi - go testRoom
+2024-01-31 15:47:57.158 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.158 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.158 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.159 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.159 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.159 [main] INFO  zork.ui.CommandLineUi - go lockedRoom
+2024-01-31 15:47:57.162 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.162 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.162 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.162 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.163 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.163 [main] INFO  zork.ui.CommandLineUi - go lockedRoom
+2024-01-31 15:47:57.165 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:47:57.165 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:47:57.165 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:47:57.165 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:47:57.165 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:47:57.166 [main] INFO  zork.ui.CommandLineUi - go nonRoom
+2024-01-31 15:49:01.741 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:01.743 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:01.744 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:01.744 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:01.744 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:01.744 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:49:01.754 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:01.755 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:01.755 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:01.755 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:01.756 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:01.756 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:49:35.240 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:35.241 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:35.241 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:35.241 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:35.241 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:35.241 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:35.242 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:35.242 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:35.242 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:35.242 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:35.242 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:49:35.250 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:49:35.250 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:49:35.251 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:49:35.251 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:49:35.251 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:49:35.251 [main] INFO  zork.ui.CommandLineUi - inventory
+2024-01-31 15:50:18.057 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.059 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.060 [main] INFO  zork.ui.CommandLineUi - putDown Blaster
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.068 [main] INFO  zork.ui.CommandLineUi - pickUp 
+2024-01-31 15:50:18.071 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.071 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.071 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.071 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.072 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.072 [main] INFO  zork.ui.CommandLineUi - putDown testWP
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.075 [main] INFO  zork.ui.CommandLineUi - putDown key
+2024-01-31 15:50:18.078 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:18.078 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:18.078 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:18.079 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:18.079 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:18.079 [main] INFO  zork.ui.CommandLineUi - putDown testWP
+2024-01-31 15:50:22.901 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.902 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.903 [main] INFO  zork.ui.CommandLineUi - pickUp 
+2024-01-31 15:50:22.912 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.912 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.913 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.913 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.913 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.913 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:50:22.916 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.917 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.917 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.917 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.917 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.918 [main] INFO  zork.ui.CommandLineUi - pickUp Blaster
+2024-01-31 15:50:22.920 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.920 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.920 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.921 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.921 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.921 [main] INFO  zork.ui.CommandLineUi - pickUp Key
+2024-01-31 15:50:22.924 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.924 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.924 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.924 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.924 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.925 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:50:22.927 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.927 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.927 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.928 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.928 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.928 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:50:22.931 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:22.931 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:22.931 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:22.931 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:22.931 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:22.932 [main] INFO  zork.ui.CommandLineUi - pickUp testWP
+2024-01-31 15:50:30.388 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:30.392 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:30.392 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:30.392 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:30.392 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:30.392 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 100, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 50, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.393 [main] INFO  zork.ui.CommandLineUi - attack 
+2024-01-31 15:50:30.408 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:30.408 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:30.408 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:30.408 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:30.409 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:30.409 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.412 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:30.412 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:30.413 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:30.413 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:30.413 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:30.413 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.413 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:50:30.417 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:30.417 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:30.417 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:30.417 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:30.418 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:30.418 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 40 - 40 ]
+2024-01-31 15:50:30.418 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:50:30.418 [main] INFO  zork.ui.CommandLineUi - attack Mucus
+2024-01-31 15:50:43.871 [main] INFO  zork.ui.CommandLineUi - Building Soldier with Health: 40, Damage: [ 10 - 20 ] with item: M4
+2024-01-31 15:50:43.875 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 150, Damage: [ 5 - 40 ] with item: Yoyo
+2024-01-31 15:50:43.875 [main] INFO  zork.ui.CommandLineUi - Building Mucus with Health: 30, Damage: [ 15 - 30 ] with item: Yoyo
+2024-01-31 15:50:43.875 [main] INFO  zork.ui.CommandLineUi - Building Thanos with Health: 150, Damage: [ 30 - 80 ]
+2024-01-31 15:50:43.875 [main] INFO  zork.ui.CommandLineUi - Building General with Health: 110, Damage: [ 10 - 35 ] with item: CongressRoomKey
+2024-01-31 15:50:43.875 [main] INFO  zork.ui.CommandLineUi - application started
